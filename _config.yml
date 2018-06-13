@@ -123,7 +123,7 @@ header_pages:
    url: '/'
  - title: 'CFP'
    hide: false
-   url: '/CFP'
+   url: '/cfp'
  - title: 'Submission'
    hide: false
    url: 'submission'
