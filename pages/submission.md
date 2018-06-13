@@ -2,6 +2,7 @@
 layout: page
 title: Submission
 permalink: /submission/
+subtitle: Submission
 feature-img: "assets/img/workshop/dublin.jpg"
 ---
 
