@@ -48,7 +48,7 @@ Topics of interest include, but are not limited to:
 
 * Workshop paper submission deadline: Monday, July 2, 2018
 * Workshop paper acceptance notification: Monday, July 23, 2018
-* Workshop paper camera-ready deadline: Monday, August 6, 2018. 
+* Workshop paper camera-ready deadline: Monday, August 6, 2018.  
 All deadlines expire on 23:59 AOE (Anywhere On Earth).
 
 ## Workshop Chairs
