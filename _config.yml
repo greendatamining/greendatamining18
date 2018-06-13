@@ -115,3 +115,18 @@ sass:
 plugins: [jekyll-paginate, jekyll-seo-tag]
 #theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "package.json", "node_modules", "gulpfile.js", ".idea/*"]
+
+# Manual navbar pages
+header_pages:
+ - title: 'Home'
+   hide: false
+   url: '/'
+ - title: 'CFP'
+   hide: false
+   url: '/CFP'
+ - title: 'Submission'
+   hide: false
+   url: 'submission'
+ - title: 'Organization'
+   hide: false
+   url: '/organization'
