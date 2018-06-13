@@ -4,7 +4,8 @@ title: CFP
 permalink: /cfp/
 feature-img: "assets/img/workshop/dublin.jpg"
 ---
-# Call For Papers
+<h1 style="text-align: center">Call For Papers</h1>
+
 ## Green Data Mining
 1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery
 Co-located with ECML-PKDD. 
