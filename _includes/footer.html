@@ -1,5 +1,10 @@
 {% if site.theme_settings.footer_text %}
 <footer class="site-footer">
+	<div class="branding">
+		<a href="{{ site.baseurl }}/">
+			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar_footer }}" alt=""/>
+		</a>
+	</div>
     <p class="text">{{ site.theme_settings.footer_text }}</p>
             <div class="footer-icons">
                 <ul>
