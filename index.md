@@ -6,8 +6,8 @@ permalink: /
 feature-img: "assets/img/workshop/dublin.jpg"
 ---
 
-<span style="color: #000000;font-size: 15pt; "><a href="http://www.ecmlpkdd2018.org/" target="_blank" rel="noopener"><font color="000000"><u><strong>ECML PKDD 2018</u></font></a><br />
-September 10-14, 2018 - Dublin, Ireland </strong></span></br><br />
+<span style="color: #000000;font-size: 15pt; "><a href="http://www.ecmlpkdd2018.org/" target="_blank" rel="noopener"><font color="000000"><u><strong>ECML PKDD 2018<br />
+September 10-14, 2018 - Dublin, Ireland </strong></br>
 <hr><br />
 <br />
 This workshop aims to bring together people from many different fields
