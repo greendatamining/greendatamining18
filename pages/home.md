@@ -10,7 +10,7 @@ feature-img: "assets/img/workshop/dublin.jpg"
 September 10-14, 2018 - Dublin, Ireland </strong></span></br><br />
 <hr><br />
 <br />
-This workshop aims to bring together people from many different fields
+EVAThis workshop aims to bring together people from many different fields
 in machine learning and data mining that have a common interest in
 energy efficiency, energy aware computing, hardware accelerators,
 and embedded systems.<br />
