@@ -6,11 +6,11 @@ permalink: /
 feature-img: "assets/img/workshop/dublin.jpg"
 ---
 
-<span style="color: #000000;font-size: 15pt; "><a href="http://www.ecmlpkdd2018.org/" target="_blank" rel="noopener"><strong>ECML PKDD 2018</a>
+<span style="color: #000000;font-size: 15pt; "><a href="http://www.ecmlpkdd2018.org/" target="_blank" rel="noopener">ECML PKDD 2018</a>
 
-September 10-14, 2018 - Dublin, Ireland </strong></br>
+**September 10-14, 2018 - Dublin, Ireland**
 <hr><br />
-<br />
+
 This workshop aims to bring together people from many different fields
 in machine learning and data mining that have a common interest in
 energy efficiency, energy aware computing, hardware accelerators,
