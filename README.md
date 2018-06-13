@@ -1,15 +1,20 @@
 # Green Data Mining
-## 1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery
-
-* Co-located with ECML-PKDD. 
-* Conference Dates: September 10-14, 2018 Workshop Date: September 10, 2018 Dublin, Ireland
-* Website: greendatamining.github.io
+1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery
+Co-located with ECML-PKDD. 
+Conference Dates: September 10-14, 2018 Workshop Date: September 10, 2018 Dublin, Ireland
+Website: greendatamining.github.io
 
 # Call For Papers
 
 ## Scope
 
-This workshop aims to bring together people from many different fields in machine learning and data mining that have a common interest in energy efficiency, energy aware computing, hardware accelerators, and embedded systems. These fields include, but are not limited to: deep learning, big data, Internet of Things (IoT), large-scale computing, stream mining, and distributed machine learning. The goal is to provide a venue for researchers to present their work, exchange ideas, and discuss challenges related to energy efficiency in machine learning, data mining, and supporting hardware platforms, and algorithms. We accept original work, already completed, or in progress. Position papers are also welcomed.
+This workshop aims to bring together people from many different fields in machine learning and data mining that have a common interest in energy efficiency, energy aware computing, hardware accelerators, and embedded systems. 
+These fields include, but are not limited to: deep learning, big data, Internet of Things (IoT), 
+large-scale computing, stream mining, and distributed machine learning. 
+The goal is to provide a venue for researchers to present their work, exchange ideas, 
+and discuss challenges related to energy efficiency in machine learning, data mining, 
+and supporting hardware platforms, and algorithms. 
+We accept original work, already completed, or in progress. Position papers are also welcomed.
 
 ## Topics
 
@@ -52,4 +57,3 @@ All deadlines expire on 23:59 AOE (Anywhere On Earth).
 * Håkan Grahn, Blekinge Institute of Technology
 * Emiliano Casalicchio, Sapienza University of Rome
 * Elena Tsiporkova, Sirris (Collective Center for the Belgian technological industry)
-* Francesco Conti, Francesco Conti, ETH Zürich & University of Bologna
