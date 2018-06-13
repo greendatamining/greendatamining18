@@ -22,7 +22,7 @@ theme_settings:
    2018 GreenDataMining
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss: false  # Make sure you created a feed.xml with feed.xml layout # I changed this one cuz we dont have one and it looks ugly..
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
