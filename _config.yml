@@ -10,6 +10,7 @@ theme_settings:
   # Meta
   title: #Green Data Mining # blog's title
   avatar: assets/img/greendatamining_logo.png
+  avatar_footer: assets/img/greendatamining_logo_black.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
