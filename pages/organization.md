@@ -30,6 +30,7 @@ Sirris (Collective Center for the Belgian technological industry)
 
 &nbsp;&nbsp;&nbsp; **Shahrooz Abghari**, Blekinge Institute of Technology  
 &nbsp;&nbsp;&nbsp; **Ricardo Baeza-Yates**, NTENT  
+&nbsp;&nbsp;&nbsp; **Roberto Basili**, University of Rome Tor Vergata
 &nbsp;&nbsp;&nbsp; **Katie Bauer**, Reddit  
 &nbsp;&nbsp;&nbsp; **Albert Bifet**, Telecom-ParisTech  
 &nbsp;&nbsp;&nbsp; **Veselka Boeva**, Blekinge Institute of Technology  
