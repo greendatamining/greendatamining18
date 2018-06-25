@@ -29,10 +29,10 @@ Position papers are also considered.
 <br /><br />
 
 ## Key Dates
- * Workshop paper submission deadline: <strong>Monday, July 2, 2018</strong><
+ * Workshop paper submission deadline: <strong>Monday, July 2, 2018</strong>
  * Workshop paper acceptance notification: Monday, July 23, 2018
  * Workshop paper camera-ready deadline: Monday, August 6, 2018
- * Workshop date: Monday, September 10, 2018 
+ * Workshop date: Friday, September 14, 2018 
 
 All deadlines expire on 23:59 AOE (Anywhere On Earth).
 
