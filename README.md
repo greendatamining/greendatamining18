@@ -1,8 +1,11 @@
 # Green Data Mining
 1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery
+
 Co-located with ECML-PKDD. 
-Conference Dates: September 10-14, 2018 Workshop Date: September 10, 2018 Dublin, Ireland
-Website: greendatamining.github.io
+
+* Conference Dates: September 10-14, 2018 
+* Workshop Date: September 14, 2018 Dublin, Ireland
+* Website: greendatamining.github.io
 
 # Call For Papers
 
@@ -41,7 +44,7 @@ Topics of interest include, but are not limited to:
 
 * Workshop paper submission deadline: Monday, July 2, 2018
 * Workshop paper acceptance notification: Monday, July 23, 2018
-* Workshop paper camera-ready deadline: Monday, August 6, 2018
+* Workshop paper camera-ready deadline: Monday, August 6, 2018   
 All deadlines expire on 23:59 AOE (Anywhere On Earth).
 
 ## Workshop Chairs
