@@ -5,10 +5,11 @@ subtitle: International Workshop on Energy Efficient Data Mining and Knowledge D
 permalink: /
 feature-img: "assets/img/workshop/dublin.jpg"
 ---
+<h1 style="text-align: center">1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery</h1>
 
-<span style="color: #10872F;font-size: 16pt; "><a href="http://www.ecmlpkdd2018.org/" target="_blank" rel="noopener">ECML PKDD 2018</a>
-
+**Co-located with <a href="http://www.ecmlpkdd2018.org/" target="_blank" rel="noopener"> <span style="color:#10872F">ECML PKDD 2018</span></a>**   
 **September 10-14, 2018 - Dublin, Ireland**
+
 <hr>
 
 This workshop aims to bring together people from many different fields
