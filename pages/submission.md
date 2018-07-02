@@ -12,7 +12,7 @@ There are two types of invited submissions:
 
 * Full paper: limited to 16 pages (including references)
 * Short or position paper: Short papers and position papers are limited to 6 pages (including references)
-* Deadline for submission: **Monday, July 2, 2018**
+* Deadline for submission: **Thursday July 12, 2018 (Extended)** 
 
 
 ## Submission Process
