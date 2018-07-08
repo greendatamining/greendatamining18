@@ -9,7 +9,8 @@ feature-img: "assets/img/workshop/dublin.jpg"
 ## Green Data Mining
 1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery  
 Co-located with ECML-PKDD.   
-Conference Dates: September 10-14, 2018 Workshop Date: September 14, 2018 Dublin, Ireland  
+Conference Dates: September 10-14, 2018 
+Workshop Date: September 14, 2018 Dublin, Ireland  
 Website: greendatamining.github.io   
 
 
