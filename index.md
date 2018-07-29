@@ -22,7 +22,7 @@ feature-img: "assets/img/workshop/dublin.jpg"
     </div>
 	<div>
         <div style="width:50%; float:left">
-			<img src="assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%">
+			<img src="assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px">
 		</div>
 		<div>
             <div class="speaker_name">Nicola Tonellotto</div>
