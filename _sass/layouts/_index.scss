@@ -23,10 +23,17 @@ h1{
     line-height: 1.2em;
 }
 
-//@media screen and (max-width: 768px)
-//.feature-image header {
-  //  min-height: 180px;
-//}
+@media screen and (max-width: 768px) {
+    div.index_keynote {
+        width:100%;
+        float: left;
+    }
+    div.index_content {
+        float: left;
+        margin-top: 20px;
+        width: 100%;
+    }
+}
 
 
 
