@@ -11,6 +11,7 @@ feature-img: "assets/img/workshop/dublin.jpg"
 	September 14, 2018 - Dublin, Ireland </p>
 
 
+
 <div class="index_main">
 	<br />
 	<div class="index_content">
