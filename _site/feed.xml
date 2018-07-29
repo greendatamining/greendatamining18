@@ -5,7 +5,7 @@
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
         <link>http://localhost:4000/</link>
         <description></description>
-        <pubDate>Wed, 04 Jul 2018 01:00:32 +0100</pubDate>
+        <pubDate>Sun, 29 Jul 2018 20:12:39 +0200</pubDate>
         
         <item>
             <title>Sample post</title>
@@ -36,7 +36,7 @@ Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit 
 
 &lt;p&gt;Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.&lt;/p&gt;
 </description>
-            <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
+            <pubDate>Sun, 30 Nov 2014 00:00:00 +0100</pubDate>
         </item>
         
         <item>
@@ -46,7 +46,7 @@ Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit 
             <description>&lt;p&gt;This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.&lt;/p&gt;
 
 </description>
-            <pubDate>Sat, 29 Nov 2014 00:00:00 +0000</pubDate>
+            <pubDate>Sat, 29 Nov 2014 00:00:00 +0100</pubDate>
         </item>
         
         <item>
@@ -100,7 +100,7 @@ Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit 
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;f(x) = \int \frac{2x^2+4x+6}{x-2}&lt;/script&gt;
 </description>
-            <pubDate>Fri, 28 Nov 2014 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 28 Nov 2014 00:00:00 +0100</pubDate>
         </item>
         
         <item>
@@ -193,7 +193,7 @@ Syntax highlighting is a feature that displays source code, in different colors 
 &lt;h3 id=&quot;source&quot;&gt;Source&lt;/h3&gt;
 
 </description>
-            <pubDate>Fri, 08 Aug 2014 00:00:00 +0100</pubDate>
+            <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
         </item>
         
         <item>
@@ -392,7 +392,7 @@ $(document).ready(function() {
 &lt;/script&gt;
 
 </description>
-            <pubDate>Thu, 12 Dec 2013 00:00:00 +0000</pubDate>
+            <pubDate>Thu, 12 Dec 2013 00:00:00 +0100</pubDate>
         </item>
         
         <item>
@@ -407,7 +407,7 @@ $(document).ready(function() {
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sed -i 's/\&quot;hostname\&quot;\:.*$/\&quot;hostname\&quot;\: \&quot;'$IPADDR'\&quot;\,/g' open-falcon/agent/config/cfg.json
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-            <pubDate>Mon, 18 Nov 2013 00:00:00 +0000</pubDate>
+            <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
         </item>
         
     </channel>
