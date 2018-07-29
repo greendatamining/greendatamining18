@@ -14,6 +14,24 @@ feature-img: "assets/img/workshop/dublin.jpg"
 
 <div class="index_main">
 	<br />
+
+	
+  <div class="index_keynote">
+    <div>
+  		<h3>KEYNOTE SPEAKERS</h3>
+    </div>
+	<div>
+        <div style="width:50%; float:left">
+			<img src="assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%">
+		</div>
+		<div>
+            <div>Nicola Tonellotto</div>
+            <div>National Research Council of Italy (ISTI)</div>
+        </div>
+    </div>
+  </div>
+
+	
 	<div class="index_content">
 	This workshop aims to bring together people from many different fields
 	in machine learning and data mining that have a common interest in
@@ -58,21 +76,6 @@ feature-img: "assets/img/workshop/dublin.jpg"
 		<li> Elena Tsiporkova, Sirris (Collective Center for the Belgian technological industry) </li>
 	</ul>
 
-  </div>
-
-  <div class="index_keynote">
-    <div>
-  		<h3>KEYNOTE SPEAKERS</h3>
-    </div>
-	<div>
-        <div style="width:50%; float:left">
-			<img src="assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%">
-		</div>
-		<div>
-            <div>Nicola Tonellotto</div>
-            <div>National Research Council of Italy (ISTI)</div>
-        </div>
-    </div>
   </div>
 
 
