@@ -11,11 +11,24 @@ div.index_content {
 div.index_keynote {
     float: right;
     width: 37%;
+
 }
 
 div.index_keynote h3{
     margin-top:0px;
     font-size: 1em;
+}
+
+div.speaker_name{
+    font-weight: bold;
+    font-size: 1em;
+    line-height: 1.1em;
+    color: #10872F;
+}
+
+div.speaker_aff{
+    font-size: 0.8em;
+    margin-top: 8px;
 }
 
 h1{

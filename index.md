@@ -15,7 +15,7 @@ feature-img: "assets/img/workshop/dublin.jpg"
 <div class="index_main">
 	<br />
 
-	
+
   <div class="index_keynote">
     <div>
   		<h3>KEYNOTE SPEAKERS</h3>
@@ -25,13 +25,13 @@ feature-img: "assets/img/workshop/dublin.jpg"
 			<img src="assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%">
 		</div>
 		<div>
-            <div>Nicola Tonellotto</div>
-            <div>National Research Council of Italy (ISTI)</div>
+            <div class="speaker_name">Nicola Tonellotto</div>
+            <div class="speaker_aff">National Research Council of Italy (ISTI)</div>
         </div>
     </div>
   </div>
 
-	
+
 	<div class="index_content">
 	This workshop aims to bring together people from many different fields
 	in machine learning and data mining that have a common interest in
