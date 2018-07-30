@@ -18,11 +18,11 @@ feature-img: "assets/img/workshop/dublin.jpg"
 
   <div class="index_keynote">
     <div>
-  		<h3>KEYNOTE SPEAKERS</h3>
+  		<h3>KEYNOTE SPEAKER</h3>
     </div>
 	<div>
         <div style="width:50%; float:left">
-			<img src="assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px">
+			<img src="assets/img/tonellotto_bw.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px">
 		</div>
 		<div>
             <div class="speaker_name"><a href="/keynote">Nicola Tonellotto</a></div>

@@ -32,6 +32,17 @@ div.speaker_aff{
     margin-top: 8px;
 }
 
+div.speaker_name_inkeynote{
+    font-weight: bold;
+    font-size: 1.2em;
+    line-height: 1.1em;
+}
+
+div.speaker_aff_inkeynote{
+    font-size: 1.0 em;
+    margin-top: 8px;
+}
+
 h1{
     font-size: 2em;
     line-height: 1.2em;
@@ -46,6 +57,10 @@ div.keynote_title{
 a {
     color: #10872F;
     text-decoration: none;
+}
+
+body{
+    font-size: 1.10em;
 }
 
 @media screen and (max-width: 768px) {
