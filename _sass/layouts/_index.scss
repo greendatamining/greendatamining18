@@ -6,6 +6,7 @@ div.index_main {
 div.index_content {
     float: left;
     width: 60%;
+    display: block;
 }
 
 div.index_keynote {
@@ -16,7 +17,7 @@ div.index_keynote {
 
 div.index_keynote h3{
     margin-top:0px;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 div.speaker_name{
@@ -34,6 +35,17 @@ div.speaker_aff{
 h1{
     font-size: 2em;
     line-height: 1.2em;
+}
+
+div.keynote_title{
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+a {
+    color: #10872F;
+    text-decoration: none;
 }
 
 @media screen and (max-width: 768px) {

@@ -18,8 +18,10 @@ theme_settings:
   header_text: > #two or three lines to describe your site
      <p>International Workshop on Energy Efficient Data Mining and Knowledge Discovery</p>
   header_text_feature_image: assets/img/workshop/dublin.jpg
-  footer_text: >
-   2018 GreenDataMining
+  footer_text: ©2018 GreenDataMining
+
+
+
 
   # Icons
   rss: false  # Make sure you created a feed.xml with feed.xml layout # I changed this one cuz we dont have one and it looks ugly..
