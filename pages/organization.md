@@ -9,7 +9,8 @@ feature-img: "assets/img/workshop/dublin.jpg"
 
 ## General chairs
 
-&nbsp;&nbsp;&nbsp;**Eva García-Martín** (main contact), Blekinge Institute of Technology . eva.garcia.martin  at  bth.se  
+&nbsp;&nbsp;&nbsp;**Eva García-Martín** Blekinge Institute of Technology 
+<span style="font-family:courier; color:#10872F">&nbsp;eva.garcia.martin[at]bth.se</span> (main contact)   
 &nbsp;&nbsp;&nbsp;**Albert Bifet**, Telecom-ParisTech  
 &nbsp;&nbsp;&nbsp;**Niklas Lavesson**, Jönköping University  
 
@@ -32,6 +33,7 @@ Sirris (Collective Center for the Belgian technological industry)
 &nbsp;&nbsp;&nbsp; **Ricardo Baeza-Yates**, NTENT  
 &nbsp;&nbsp;&nbsp; **Roberto Basili**, University of Rome Tor Vergata  
 &nbsp;&nbsp;&nbsp; **Katie Bauer**, Reddit  
+&nbsp;&nbsp;&nbsp; **Mathias Verbeke**, Sirris  
 &nbsp;&nbsp;&nbsp; **Albert Bifet**, Telecom-ParisTech  
 &nbsp;&nbsp;&nbsp; **Veselka Boeva**, Blekinge Institute of Technology  
 &nbsp;&nbsp;&nbsp; **Emiliano Casalicchio**, Sapienza University of Rome  
