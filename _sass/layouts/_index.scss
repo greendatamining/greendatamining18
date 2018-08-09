@@ -29,7 +29,7 @@ div.speaker_name{
 
 div.speaker_aff{
     font-size: 0.8em;
-    margin-top: 8px;
+    margin-top: 3px;
 }
 
 div.speaker_name_inkeynote{
@@ -41,6 +41,9 @@ div.speaker_name_inkeynote{
 div.speaker_aff_inkeynote{
     font-size: 1.0 em;
     margin-top: 8px;
+}
+div.elsen{
+    margin-top: 145px;
 }
 
 h1{
@@ -63,6 +66,69 @@ body{
     font-size: 1.10em;
 }
 
+// To collapse abstract
+
+.collapsible {
+    background-color: white;
+    color: #10872F;
+    cursor: pointer;
+    padding: 0px;
+    border: none;
+    width: 100%;
+    text-align: left;
+    outline: none;
+    font-size: 1.0em;
+  //  border-bottom: 3px solid #10872F;
+    font-weight: bold;
+}
+
+.active, .collapsible:hover {
+    background-color: #10872f1a;
+    color: #10872F;
+}
+
+.collapsible:after {
+    content: "\002B  Show More";
+    color: #10872F;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+    margin-top: 5px;
+    //content: '\002B';
+
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.tocollapse {
+    padding-left: 12px;
+    padding-top: 0px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    //background-color: #f1f1f1;
+    background-color: #10872f1a;
+}
+.abstract_context{
+    color:#383838;
+    font-weight: normal;
+    margin-left: 12px;
+    margin-bottom: -20px;
+
+
+}
+.bio_title{
+    color: #10872F;
+    font-weight: bold;
+
+}
+.bio_context{
+    padding-left: 12px;
+    padding-top: 0px;
+}
+    
 @media screen and (max-width: 768px) {
     div.index_keynote {
         width:100%;
@@ -87,6 +153,12 @@ body{
 
     h2.subtitle{
         display: none;
+    }
+    div.elsen{
+    margin-top: 165px;
+    }
+    .collapsible:after {
+    margin-top: 25px;
     }
 }
 

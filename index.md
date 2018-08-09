@@ -14,21 +14,36 @@ feature-img: "assets/img/workshop/dublin.jpg"
 
 <div class="index_main">
 	<br />
-
-
   <div class="index_keynote">
     <div>
-  		<h3>KEYNOTE SPEAKER</h3>
+  		<h3>KEYNOTE SPEAKERS</h3>
     </div>
-	<div>
+	
+	<!-- Nicola -->
+	<div class>
         <div style="width:50%; float:left">
 			<img src="assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px">
+			<img src="assets/img/elsen.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px;margin-top: 25px">
 		</div>
 		<div>
-            <div class="speaker_name"><a href="/keynote">Nicola Tonellotto</a></div>
+            <a href="/keynote#nicola"><div class="speaker_name">Nicola Tonellotto</div></a>
             <div class="speaker_aff">National Research Council of Italy (ISTI)</div>
         </div>
+
+        <div class="elsen">
+            <div class="speaker_name"><a href="/keynote#erich">Erich Elsen</a></div>
+            <div class="speaker_aff">Google Brain</div>
+        </div>
     </div>
+    
+	<!-- Erich -->
+   <!--  <div>
+    	<div style="width:50%; float:left">
+			<img src="assets/img/elsen.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px">
+		</div>
+		
+    </div> -->
+  
   </div>
 
 
