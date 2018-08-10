@@ -70,7 +70,7 @@ body{
 
 .collapsible {
     background-color: white;
-    color: #10872F;
+    color: #383838;
     cursor: pointer;
     padding: 0px;
     border: none;
@@ -83,8 +83,8 @@ body{
 }
 
 .active, .collapsible:hover {
-    background-color: #10872f1a;
-    color: #10872F;
+    //background-color: #10872f1a;
+    color: #383838;;
 }
 
 .collapsible:after {
@@ -109,7 +109,7 @@ body{
     overflow: hidden;
     transition: max-height 0.2s ease-out;
     //background-color: #f1f1f1;
-    background-color: #10872f1a;
+    //background-color: #10872f1a;
 }
 .abstract_context{
     color:#383838;
@@ -120,7 +120,7 @@ body{
 
 }
 .bio_title{
-    color: #10872F;
+    color: #383838;
     font-weight: bold;
 
 }
