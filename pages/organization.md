@@ -44,3 +44,7 @@ Sirris (Collective Center for the Belgian technological industry)
 &nbsp;&nbsp;&nbsp; **Isabelle Moulinier**, Capital One  
 &nbsp;&nbsp;&nbsp; **Christian Nordahl**, Blekinge Institute of Technology  
 &nbsp;&nbsp;&nbsp; **Elena Tsiporkova**, Sirris  
+
+<!-- ## Web and Social Media Chair
+&nbsp;&nbsp;&nbsp; **Ruben **, Blekinge Institute of Technology  
+ -->
