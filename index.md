@@ -26,7 +26,7 @@ feature-img: "assets/img/workshop/dublin.jpg"
 			<img src="assets/img/elsen.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px;margin-top: 25px">
 		</div>
 		<div>
-            <a href="/keynote#nicola"><div class="speaker_name">Nicola Tonellotto</div></a>
+            <div class="speaker_name"><a href="/keynote#nicola">Nicola Tonellotto</a></div>
             <div class="speaker_aff">National Research Council of Italy (ISTI)</div>
         </div>
 
