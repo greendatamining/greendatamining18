@@ -20,21 +20,26 @@ feature-img: "assets/img/workshop/dublin.jpg"
     </div>
 	
 	<!-- Nicola -->
-	<div class>
-        <div style="width:50%; float:left">
-			<img src="assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px">
-			<img src="assets/img/elsen.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px;margin-top: 25px">
-		</div>
-		<div>
-            <div class="speaker_name"><a href="/keynote#nicola">Nicola Tonellotto</a></div>
-            <div class="speaker_aff">National Research Council of Italy (ISTI)</div>
-        </div>
-
-        <div class="elsen">
-            <div class="speaker_name"><a href="/keynote#erich">Erich Elsen</a></div>
-            <div class="speaker_aff">Google Brain</div>
-        </div>
+	<div>
+    <div style="width:50%; float:left">
+        <img src="assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px"> 
     </div>
+    <div>
+        <div class="speaker_name"><a href="/keynote#nicola">Nicola Tonellotto</a></div>
+        <div class="speaker_aff">National Research Council of Italy (ISTI)</div>
+    </div>
+</div>
+<div>
+    <div style="width:50%; float:left">
+        <img src="assets/img/elsen.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px;">
+    </div>
+    <div>
+        <div class="speaker_name">
+            <a href="/keynote#erich">Erich Elsen</a>
+        </div>
+        <div class="speaker_aff">Google Brain</div>
+    </div>
+</div>
     
 	<!-- Erich -->
    <!--  <div>
