@@ -124,12 +124,15 @@ header_pages:
  - title: 'Home'
    hide: false
    url: '/'
- - title: 'CFP'
-   hide: false
-   url: '/cfp/'
  - title: 'Keynotes'
    hide: false
    url: '/keynote/'
+ - title: 'Schedule'
+   hide: false
+   url: '/schedule/'
+ - title: 'CFP'
+   hide: false
+   url: '/cfp/'
  - title: 'Dates'
    hide: false
    url: '/dates/'
