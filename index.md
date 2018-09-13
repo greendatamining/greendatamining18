@@ -8,7 +8,9 @@ feature-img: "assets/img/workshop/dublin.jpg"
 <h1 style="text-align: center">1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery</h1>
 
  <p style="text-align:center; font-weight:bold">Co-located with <a href="http://www.ecmlpkdd2018.org/" target="_blank" rel="noopener"> <span style="color:#10872F">ECML PKDD 2018</span></a> <br />
-	September 14, 2018 - Dublin, Ireland </p>
+	September 14, 2018 - Dublin, Ireland <br />
+	Level 6, All Star 681/682 room, Croke Park
+</p>
 
 
 

@@ -6,6 +6,9 @@ feature-img: "assets/img/workshop/dublin.jpg"
 ---
 
 <h1 style="text-align: center">Schedule</h1>
+***Friday 14th September***  
+
+**Level 6, All Star 681/682 room** (ECML-PKDD, Conference center at Croke Park)
 
 
 | Time                           |
