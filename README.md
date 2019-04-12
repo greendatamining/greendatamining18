@@ -9,6 +9,7 @@ Co-located with ECML-PKDD.
 
 # Call For Papers
 
+
 ## Scope
 
 This workshop aims to bring together people from many different fields in machine learning and data mining that have a common interest in energy efficiency, energy aware computing, hardware accelerators, and embedded systems. 
