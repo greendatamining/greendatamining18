@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://greendatamining.github.io"
+url: "https://greendatamining.github.io/greendatamining18/"
 title: Green Data Mining # site's title
 description: "International Workshop on Energy Efficient Data Mining and Knowledge Discovery" # used by search engines
 
