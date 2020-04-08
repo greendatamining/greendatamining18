@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "greendatamining18/"
+baseurl: ""
 url: "https://greendatamining.github.io/greendatamining18/"
 title: Green Data Mining # site's title
 description: "International Workshop on Energy Efficient Data Mining and Knowledge Discovery" # used by search engines
@@ -123,22 +123,22 @@ exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE"
 header_pages:
  - title: 'Home'
    hide: false
-   url: '/'
+   url: '/greendatamining18/'
  - title: 'Keynotes'
    hide: false
-   url: '/keynote/'
+   url: '/greendatamining18/keynote/'
  - title: 'Schedule'
    hide: false
-   url: '/schedule/'
+   url: '/greendatamining18/schedule/'
  - title: 'CFP'
    hide: false
-   url: '/cfp/'
+   url: '/greendatamining18/cfp/'
  - title: 'Dates'
    hide: false
-   url: '/dates/'
+   url: '/greendatamining18/dates/'
  - title: 'Submission'
    hide: false
-   url: '/submission/'
+   url: '/greendatamining18/submission/'
  - title: 'Organization'
    hide: false
-   url: '/organization/'
+   url: '/greendatamining18/organization/'
