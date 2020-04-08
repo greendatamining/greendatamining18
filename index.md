@@ -27,7 +27,7 @@ feature-img: "assets/img/workshop/dublin.jpg"
         <img src="assets/img/tonellotto.jpg" alt="Nicola Tonellotto" style="width:100%; padding-left: 0px"> 
     </div>
     <div>
-        <div class="speaker_name"><a href="https://greendatamining.github.io/keynote/#nicola">Nicola Tonellotto</a></div>
+        <div class="speaker_name"><a href="https://greendatamining.github.io/greendatamining18/keynote/#nicola">Nicola Tonellotto</a></div>
         <div class="speaker_aff">National Research Council of Italy (ISTI)</div>
     </div>
 </div>
@@ -38,7 +38,7 @@ feature-img: "assets/img/workshop/dublin.jpg"
     </div>
     <div>
         <div class="speaker_name">
-            <a href="https://greendatamining.github.io/keynote/#erich">Erich Elsen</a>
+            <a href="https://greendatamining.github.io/greendatamining18/keynote/#erich">Erich Elsen</a>
         </div>
         <div class="speaker_aff">Google Brain</div>
     </div>
